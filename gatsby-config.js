@@ -8,7 +8,7 @@ module.exports = {
     siteTitle: `LeeTian`,
     siteTitleAlt: `Lee Tian`,
     siteHeadline: `LeeTian`,
-    siteUrl: `https://leetian.xyz`,
+    siteUrl: `http://leetblog.github.io/`,
     siteDescription: `Includes Light/Dark mode.`,
     siteLanguage: `en`
   },
